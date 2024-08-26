@@ -1,0 +1,5 @@
+package com.nec;
+
+public class CountDistinctChars {
+
+}
